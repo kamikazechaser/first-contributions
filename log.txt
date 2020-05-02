@@ -1,0 +1,14 @@
+Commands used for this task
+
+git clone :get the repo on local system
+cd :going on that directory
+git branch :make branch of any name
+git checkout :going on the branch whose name we used
+touch :make file in that branch
+git add :add that fike in repo or staging area
+git commit :save all changes
+git log :show all the changes that we did
+git status :show the status of given repo or branch
+git merge :to merge branches
+git push :to push to remote depository
+git mv <old file name> <new file name> :to rename files
