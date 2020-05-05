@@ -1,0 +1,9 @@
+git clone:cloning the repo
+git branch:create the branch
+git checkout:for moving into created branch
+git add:adding  file into branch
+git commit:commit all changes
+git status:status of branch
+git merge:merging the branches
+git push:pushing the files into remote repository
+git mv <  > <  >:rename the file
